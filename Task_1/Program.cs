@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите число");
+﻿Console.WriteLine("Введите первое число");
 string input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 int result = number * number;
