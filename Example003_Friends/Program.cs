@@ -7,7 +7,7 @@ int Time = 0;
 int Friend = 2;
 while(distanse > 4)
 {
-    if(Friend == 1);
+    if(Friend == 1)
     {Time = distanse/(FirstFriendSpead + DogSpead);
     Friend = 2;};
     Time = distanse/(SecondFriendSpead + DogSpead);
