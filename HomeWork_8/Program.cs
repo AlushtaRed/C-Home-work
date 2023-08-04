@@ -5,7 +5,7 @@ Console.WriteLine("Введите число");
 string input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 int chetnoe = 1;
-while (chetnoe < number)
+for (chetnoe = 1; chetnoe < number; chetnoe++)
     {if (chetnoe % 2 == 0) Console.WriteLine(chetnoe);
-    chetnoe = chetnoe + 1;
+    
     }
